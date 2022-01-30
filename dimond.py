@@ -15,4 +15,4 @@ for i in range(x, 0 ,-1):
     for j in range (i, 0, -1):
         print('*', end=' ')
     print(' ')
-print("thank you ")    
+print("thank you very much")    
