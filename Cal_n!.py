@@ -3,3 +3,4 @@ c = 1
 for i in range(1, x+1):
     c = c * i
 print('Factorial of', '"', x, '"', ' is', '"', c, '"')
+print("Thank you very much")
