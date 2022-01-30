@@ -4,3 +4,5 @@ if test == 0:
     print('entered number is even')
 else:
     print('entered number is odd')
+print("thank you")    
+    
