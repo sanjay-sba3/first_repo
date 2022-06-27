@@ -1,3 +1,4 @@
+print("wel come to my Program")
 x = int(input('Enter numbers of row :'))
 for i in range(0, x):
     for j in range(0, i+1):
